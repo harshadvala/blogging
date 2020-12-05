@@ -4,7 +4,7 @@
 
 1. First install [Git](http://git-scm.com/), [NodeJS](https://nodejs.org/), [Composer](https://getcomposer.org/)
 1. Read on [How To Setup SSH for GIT](https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html)
-2. `git clone git@bitbucket.org:lptool/lpshipment.git`
+2. `git clone git@github.com:harshadvala/blogging.git`
 3. copy `.env.example` into `.env` file and update DB_*, URL settings
 4. set read/write permissions to
     * storage/*
