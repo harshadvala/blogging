@@ -14,7 +14,7 @@
 8. `npm run dev`
 9. `php artisan migrate`
 11. configure your "Apache" to use `public` directory as `DocumentRoot`
-12.  Login By admin user
+12.  Login with admin user
 ```
 Email    - admin@blog.com
 Password - admin@123
@@ -23,7 +23,7 @@ Password - admin@123
 
 
 ## Import Blogs from Heroku 
-##### [Starting The Scheduler on server](https://laravel.com/docs/8.x/scheduling) or run command in erminal 
+##### [Starting The Scheduler on server](https://laravel.com/docs/8.x/scheduling) or run command in terminal 
 ```
  php artisan command:import-heroku-blogs
 ```
